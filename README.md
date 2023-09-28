@@ -1,9 +1,9 @@
 1-for frontend
-cd frontend-- npm i
-npm start 
+a)cd frontend 
+b)npm i
+c)npm start 
 2-for backend
-cd backend
-npm i
-npm start
-
+a)cd backend
+b)npm i
+c)npm start
 sudo service mongod start npm start.
